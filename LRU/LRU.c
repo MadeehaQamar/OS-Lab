@@ -35,10 +35,6 @@ break;
 }
 }
 
-BVRIT HYDERABAD College of Engineering for Women
-Title: Date:
-Page No:
-
 if(flag1 == 0){
 for(j = 0; j < no_of_frames; ++j){
 if(frames[j] == -1){
